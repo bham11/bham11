@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Brandon Hampstead. I am a Computer Science and Economics student at Northeastern University, with a passion for sports and data analytics. I am currently working as a Data Integration Engineering Co-op at Funnel and work with the Northeastern Men's Hockey team as a Hockey Analyst!
+My name is Brandon Hampstead. I am a Computer Science and Economics student at Northeastern University, with a passion for sports and data analytics. I am currently working as a Data Engineering Co-op at ASICS Digital and work with the Northeastern Men's Hockey team as a Hockey Analyst!
 
-I have experience coding in Java, C#, R, SQL, and Python. 
+I have experience coding in Python, SQL, Java, C#, R. 
 
 
 <!--
